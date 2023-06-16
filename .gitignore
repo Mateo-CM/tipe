@@ -34,3 +34,4 @@ evolution.ml
 convexhull.ml
 grid.ml
 *.png
+*.PNG
