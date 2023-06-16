@@ -1,0 +1,10 @@
+(executable
+ 
+ (name tipe)
+ (libraries graphics)
+ )
+(env
+  (dev
+    (flags (:standard -w -27 -w -26 -w -33))))
+
+

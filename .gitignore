@@ -27,3 +27,10 @@ setup.log
 
 # Local OPAM switch
 _opam/
+
+# Fichiers persos
+*.pdf
+evolution.ml
+convexhull.ml
+grid.ml
+*.png
